@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '';
+    src: url('.eot');
+    src: local('0'), url('') format('woff'), 
+        url('.ttf') format('truetype'), 
+        url('.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
